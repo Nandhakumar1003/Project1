@@ -11,7 +11,13 @@ public class UserDefine {
 
 		String Name = s.nextLine();
 		System.out.println("Name is " + Name);
+
 		System.out.println("456");
+
+		System.out.println("123");
+		
+		
+
 		String Address = s.nextLine();
 		System.out.println("Address is " + Address);
 
